@@ -1,0 +1,15 @@
+{
+    "name": "bernardinoslv/asaas-sdk",
+    "autoload": {
+        "psr-4": {
+            "BernardinoSlv\\Asaas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bernardinoslv",
+            "email": "bernardinoosilvaa@gmail.com"
+        }
+    ],
+    "require": {}
+}

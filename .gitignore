@@ -1,0 +1,6 @@
+## Directories
+vendor/
+
+## Files
+bootstrap.php
+constants.php
